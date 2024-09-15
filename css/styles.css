@@ -1,8 +1,12 @@
-h1 #my-header {
-  background-color: rgb(45, 4, 250);
-  color: hsl(0, 0%, 100%);
+#myHeader {
+  background-color: rgb(255, 254, 255);
+  color: rgb(13, 0, 0);
   padding: 40px;
   text-align: center;
-  background-color: powderblue;
 }
 
+.city {
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+}
